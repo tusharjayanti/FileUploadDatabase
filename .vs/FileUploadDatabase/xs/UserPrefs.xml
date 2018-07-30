@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{338DB8F6-3631-45E4-A8EB-25C8419FDD91}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileUploadDatabase/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="FileUploadDatabase/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="FileUploadDatabase/Views/Home/Contact.cshtml" Line="1" Column="1" />
+      <File FileName="FileUploadDatabase/Controllers/HomeController.cs" Line="16" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FileUploadDatabase PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
